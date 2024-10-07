@@ -37,7 +37,7 @@ export default function Home() {
           />
           <ol>
             <li>
-              Get started by editing your page <code>src/pages/index.js</code>.
+              Get started by editing your page! <code>src/pages/index.js</code>.
             </li>
             <li>
               Save and see your changes instantlybnjckcs vfjvrmwal 222222.
