@@ -40,7 +40,7 @@ export default function Home() {
               Get started by editing your page! <code>src/pages/index.js</code>.
             </li>
             <li>
-              Save and see your changes instantlybnjckcs vfjvrmwal 222222.
+              Save and see your changes instantly.
             </li>
             <li> Teste de prettier</li> <li>mais um teste </li>{" "}
             <li> Teste de prettier</li> <li>maais um teste </li>{" "}
